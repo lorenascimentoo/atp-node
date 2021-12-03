@@ -19,5 +19,8 @@ Repositório para desenvolvimento das atividades práticas da Academia Técnica 
 - **ATP74** : Banco de dados no NodeJs utilizando o ORM Sequelize - Criação de Repository para utilização dos métodos CRUD.
 >[\atividadep74](https://github.com/lorenascimentoo/academiatecnica-pratica/tree/main/src/modulo2/atividadep74)
 
-- **ATP74** : API no NodeJs utilizando o Express.
->[\atividadep74](https://github.com/lorenascimentoo/academiatecnica-pratica/tree/main/src/modulo2/atividadep74)
+- **ATP75** : API no NodeJs utilizando o Express.
+>[\atividadep75](https://github.com/lorenascimentoo/academiatecnica-pratica/tree/main/src/modulo2/atividadep75)
+
+- **ATP76** : Typescript com NodeJs.
+>[\atividadep76](https://github.com/lorenascimentoo/academiatecnica-pratica/tree/main/src/modulo2/atividadep76)
